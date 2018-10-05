@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2001: неразрешенный внешний символ ""void __cdecl cv::imshow(class cv::String const &,class cv::_InputArray const &)" (?imshow@cv@@YAXAEBVString@1@AEBV_InputArray@1@@Z)"
+c:\users\влад\source\repos\helloOpenCv\x64\Release\helloOpenCv.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
